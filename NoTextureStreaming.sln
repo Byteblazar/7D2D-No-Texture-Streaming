@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35828.75 d17.13
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NoTextureStreaming", "NoTextureStreaming\NoTextureStreaming.csproj", "{2E89B447-5BC5-45A3-8AE4-9D45B54DDC1A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2E89B447-5BC5-45A3-8AE4-9D45B54DDC1A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2E89B447-5BC5-45A3-8AE4-9D45B54DDC1A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2E89B447-5BC5-45A3-8AE4-9D45B54DDC1A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2E89B447-5BC5-45A3-8AE4-9D45B54DDC1A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {EF44FDA7-736B-4561-8E2E-1B1E6A754368}
+	EndGlobalSection
+EndGlobal

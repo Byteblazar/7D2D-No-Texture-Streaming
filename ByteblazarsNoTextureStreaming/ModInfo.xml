@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<xml>
+	<Name value="Byteblazar_No_Texture_Streaming" />
+	<DisplayName value="No Texture Streaming" />
+	<Description value="Turns off Unity's texture streaming on launch (same as gfx st budget 0)" />
+	<Author value="Byteblazar" />
+	<Version value="1.0.0.0" />
+	<Website value="https://ko-fi.com/byteblazar" />
+</xml>
